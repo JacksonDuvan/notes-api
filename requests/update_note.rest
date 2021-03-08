@@ -1,6 +1,7 @@
-PUT http://localhost:3001/api/notes/2
+PUT http://localhost:3001/api/notes/603d917fe5964a02fcf02808
 Content-Type: application/json
 
 {
-    "content": "New JavaScript"
+    "content": "Hola Mundo",
+    "important": false
 }
